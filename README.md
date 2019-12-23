@@ -5,4 +5,4 @@
 - [x] Save user name 
 - [x] Todo list 추가 및 삭제 기능
 - [x] Random Image background
-- [ ] weather api
+- [x] Weather API
